@@ -1,2 +1,6 @@
 dataset
 lightning_logs
+__pycache__
+Forest Segmented
+tb_logs
+meta_data.csv
